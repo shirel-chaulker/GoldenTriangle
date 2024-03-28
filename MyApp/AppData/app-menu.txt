@@ -1,0 +1,6 @@
+﻿Select your choice: 1
+
+~~~~~~~~~~~~~~~~~~~~~~~~
+1 - Reverse Numbers
+2 - Calculate Factorial 
+3 - Longest Word 
